@@ -1,3 +1,4 @@
+/* 
 function add(a,b){
     return a + b;
 }
@@ -36,3 +37,4 @@ function checkAge(age){
 
 var result = Math.sqrt(4);
 alert(result); /* llkz*/
+
